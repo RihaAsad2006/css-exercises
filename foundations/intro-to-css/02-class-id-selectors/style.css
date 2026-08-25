@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.abc{
+    background-color: rgb(255, 196, 205);
+    font-family: Verdana "DejaVu Sans" sans-serif;
+
+}/* Add CSS Styling */
+.cooler{
+    font-size: 24px;
+}
+#blue{
+    color: rgb(37, 37, 253);
+    font-size: 36px;
+}
+#green{
+    background-color: rgb(170, 248, 170);
+    font-size: 24px;
+    font-weight: bold;
+}
